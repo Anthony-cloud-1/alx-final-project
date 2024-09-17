@@ -29,7 +29,7 @@ Create a `.env` file in the `CyberWatchGemini` directory of the project. This fi
 GOOGLE_GENAI_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
-## 4. Developing
+### 4. Developing
 
 Once you've installed the dependencies with `npm install` (or `pnpm install` or `yarn`) in both directories, start a development server in the `CyberWatch` directory:
 
@@ -40,7 +40,7 @@ npm run dev
 npm run dev -- --open
 ```
 
-## 5. Developing
+### 5. Developing
 
 Start the `AI` in the `CyberWatchGemini/lib` directory:
 
